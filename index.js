@@ -2,7 +2,7 @@ const numInput = document.querySelector("input[name='number']")
 const inputForm = document.querySelector("form");
 const numberBank = document.querySelector("#numberBank output");
 const sortOne = document.querySelector("#sortOne");
-const evensBankBank = document.querySelector("#evens output");
+const evensBank = document.querySelector("#evens output");
 const oddsBank = document.querySelector("#odds output");
 
 const numberStore = [];
